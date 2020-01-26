@@ -1,3 +1,1 @@
-aghkalhf
-
-tum badiya ho
+this program use ai to play piano tiles automatically
